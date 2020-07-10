@@ -34,11 +34,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  greetings = ["wow","hi","hello","hey"]
+  greetings = ["wow","hi","hello","hey","arrays!"]
   greetings [0]
 end
 
 def retrieve_last_element_from_array(array)
   byes = ["see ya","to-taloo","peace"]
-  byes [2]
+  byes [3]
 end
