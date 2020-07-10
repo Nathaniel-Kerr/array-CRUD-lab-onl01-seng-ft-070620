@@ -40,5 +40,5 @@ end
 
 def retrieve_last_element_from_array(array)
   byes = ["see ya","to-taloo","peace"]
-  byes [3]
+  byes [-1]
 end
